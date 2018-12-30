@@ -18,7 +18,7 @@ public class Aufruf
         //über for-each Schleife ausgeben
         for(Student j:studenten)
         {
-            System.out.println(j);
+            System.out.println(j.toString());
         }
     }
 
